@@ -1,0 +1,7 @@
+{
+    "name": "@myorg/frontend",
+    "locator": {
+        "ruleset": "frontend",
+        "rulesets": "ruleset"
+    }
+}

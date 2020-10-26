@@ -1,0 +1,7 @@
+type Boilerplate {
+  id: String
+  name: String
+}
+type Query {
+  boilerplate(id: String): Boilerplate
+}

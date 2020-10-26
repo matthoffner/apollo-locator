@@ -1,0 +1,7 @@
+type Module {
+  id: String
+  name: String
+}
+type Query {
+  module(id: String): Module
+}

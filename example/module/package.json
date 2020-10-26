@@ -1,0 +1,7 @@
+{
+    "name": "@myorg/module",
+    "locator": {
+        "ruleset": "module",
+        "rulesets": "../ruleset"
+    }
+}
