@@ -1,0 +1,23 @@
+{
+  "name": "apollo-locator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthoffner/apollo-locator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matthoffner/apollo-locator/issues"
+  },
+  "homepage": "https://github.com/matthoffner/apollo-locator#readme",
+  "dependencies": {
+    "locator": "^2.0.0",
+    "parse-packagejson-name": "^1.0.1"
+  }
+}
