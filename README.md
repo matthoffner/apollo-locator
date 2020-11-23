@@ -1,6 +1,6 @@
 # apollo-locator
 
-WIP example of using [locator](https://www.npmjs.com/package/locator) to locate type definitions and resolvers for Apollo.
+Uses [locator](https://www.npmjs.com/package/locator) to locate to gather type definitions and resolvers for Apollo.
 
 This assumes that you are using scoped packages, and will use the scope definition for the package.json name.
 
